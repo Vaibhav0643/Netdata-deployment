@@ -1,7 +1,7 @@
 # 🧠 TASK 7: Monitor System Resources Using Netdata
 
 ### 🎯 Objective
-Install and run **Netdata** to visualize real-time system and container performance metrics such as CPU, memory, disk I/O, and network usage — all from a beautiful web dashboard.
+Install and run **Netdata** to visualize real-time system and container performance metrics such as CPU, memory, disk I/O, and network usage — all from a beautiful web dashboard.  
 For more info, visit the [Netdata Documentation](https://learn.netdata.cloud)
 ---
 
